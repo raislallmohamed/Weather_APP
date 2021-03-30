@@ -128,7 +128,6 @@ def func1(lat, lon):
 
 
 # Function 2: World Temperature Map
-# Ignore function 2 for now
 def func2():
     # Layer name -> you need to use the code names from https://openweathermap.org/api/weather-map-2#layers
     op = "TA2"
